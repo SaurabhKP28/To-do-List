@@ -14,7 +14,6 @@ A simple and elegant Todo List application built with HTML, CSS, and JavaScript.
 
 ## Screenshots
 
-![Screenshot](./screenshot.png)
 
 ## Installation
 
