@@ -1,4 +1,4 @@
-# Todo List Application
+![screen](https://github.com/SaurabhKP28/To-do-List/assets/104314402/ba50c00e-5d2a-48ff-a4da-052c716c2346)# Todo List Application
 
 A simple and elegant Todo List application built with HTML, CSS, and JavaScript. This application allows users to manage their tasks efficiently with features like adding, deleting, filtering, and marking tasks as completed.
 
@@ -14,6 +14,7 @@ A simple and elegant Todo List application built with HTML, CSS, and JavaScript.
 
 ## Screenshots
 
+![screen](https://github.com/SaurabhKP28/To-do-List/assets/104314402/1c9224eb-784a-4747-83e7-2b324e48b333)
 
 ## Installation
 
